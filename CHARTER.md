@@ -6,7 +6,7 @@ Effective 4 February 2019
 
 #### 1) Mission and Scope of the Continuous Delivery Foundation (the "Foundation," or, alternatively, the “Directed Fund”).
 
-- a)  The purpose of the Foundation is to raise, budget and spend funds in support of various open source and/or open standards projects relating to raise, budget and spend funds in support of various continuous delivery open source and standards projects, including infrastructure and support related thereto, including infrastructure and support initiatives related thereto (each such project, a "Technical Project"). The governance of each Technical Project is as set forth in the applicable charter for each Technical Project.
+- a)  The purpose of the Foundation is to raise, budget and spend funds in support of various open source and/or open standards projects  in support of various continuous delivery open source and standards projects, including infrastructure and support related thereto, including infrastructure and support initiatives related thereto (each such project, a "Technical Project"). The governance of each Technical Project is as set forth in the applicable charter for each Technical Project.
 
 - b)  With respect to values and principles driving the Foundation, the Foundation:
 
