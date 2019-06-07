@@ -18,7 +18,7 @@ Effective 4 February 2019
 
   - iv)  advocates this idea and encourages collaborations among practitioners to share and improve their practices.	
   
-- c) The Directed Fund supports the Technical Projects. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the "Governing Board") and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax- exempt status.
+- c) The Directed Fund supports the Technical Projects. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the "Governing Board") and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.
 
 - d) The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee, TOC (as defined herein), Budget Committee, Legal Committee and other working groups, councils, committees and similar bodies (collectively, "Committees", and excluding the TOC, the “Governing Board Committees”) that may be established by the Governing Board. These committees report to the Governing Board.
 
