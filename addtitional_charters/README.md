@@ -2,7 +2,7 @@
 
 ## CDF Binary Project a Series of LF Projects, LLC
 
-Mission and Scope of the Project
+**Mission and Scope of the Project**
 
 a. The mission of the Project is to:
 
