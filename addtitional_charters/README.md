@@ -16,4 +16,4 @@ open source license supporting the mission, including documentation, testing,
 integration and the creation of other artifacts that aid the development,
 deployment, operation or adoption of the open source software project.
 
-{link}
+[Read the charter](https://github.com/cdfoundation/charter/blob/master/addtitional_charters/CDF%20Binary%20Project%20Technical%20Charter.docx.pdf)
