@@ -152,7 +152,7 @@ Effective 4 February 2019
 
   - iii)  three representatives elected by the Governing Board (with nominees not having to be members of the Governing Board). The Governing Board may delegate responsibility for electing a representative (e.g., to the CDF Community Ambassadors) 
 
-- c)  Voting members of the TOC will be elected or appointed, as applicable, to such positions for two-year terms, provided, however, that the TOC may employ a number of one-year terms in order to stagger appointments and elections to the TOC. The TOC may choose to implement term limits for individuals serving as members on the TOC.. 
+- c)  Voting members of the TOC will be elected or appointed, as applicable, to such positions for two-year terms, provided, however, that the TOC may employ a number of one-year terms in order to stagger appointments and elections to the TOC. The TOC may choose to implement term limits for individuals serving as members on the TOC. 
 - d)  Meetings of the TOC are intended to be open for observation generally. The TOC may make changes to this policy as deemed necessary by the TOC.
 
 - e)  At the start of the Directed Fund, "TOC Projects" are those Technical Projects listed as having voting representatives on the TOC on the Directed Fund’s web site. Thereafter, any Technical Project can become a TOC Project through the approval of the Technical Project’s technical oversight body, the TOC (by a two-third’s vote), and the Governing Board. The TOC and the Governing Board may approve a project lifecycle policy that will address the incubation, archival and other stages of TOC Projects.
