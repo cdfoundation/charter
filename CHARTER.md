@@ -146,11 +146,11 @@ Effective 4 February 2019
 
 - b)  The voting members of the TOC consist of nine members as follows:
 
-  - i)  four representatives nominated by, and voted upon, by the technical oversight body (e.g., a technical steering committee) of each TOC Project (as defined herein)
+  - i)  four representatives nominated by, and voted upon, by the technical oversight body (e.g., a technical steering committee) of the TOC Projects (as defined herein). Each TOC Project may nominate a maximum of one project representative to run for these seats. 
 
   - ii)  two representatives elected by the End User Members voting as a class; and
 
-  - iii)  three representatives elected by the Governing Board (with nominees not having to be members of the Governing Board). The Governing Board may delegate responsibility for electing a representative (e.g., to the CDF Community Ambassadors) 
+  - iii)  three representatives elected by the Governing Board (with nominees not having to be members of the Governing Board). The Governing Board may delegate responsibility for electing one or more representatives (e.g., to the CDF Community Ambassadors) 
 
 - c)  Voting members of the TOC will be elected or appointed, as applicable, to such positions for two-year terms, provided, however, that the TOC may employ a number of one-year terms in order to stagger appointments and elections to the TOC. The TOC may choose to implement term limits for individuals serving as members on the TOC. 
 - d)  Meetings of the TOC are intended to be open for observation generally. The TOC may make changes to this policy as deemed necessary by the TOC.
