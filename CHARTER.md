@@ -2,7 +2,7 @@ The Continuous Delivery Foundation Charter v1.0
 					
 The Linux Foundation
 
-Effective 4 February 2019
+Effective 4 February 2019 / Amended 26 March 2021
 
 #### 1) Mission and Scope of the Continuous Delivery Foundation (the "Foundation," or, alternatively, the “Directed Fund”).
 
