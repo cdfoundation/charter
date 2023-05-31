@@ -111,7 +111,7 @@ Effective 4 February 2019 / Amended 23 February 2023
 
 - e) The Governing Board may appoint a chairperson of the Outreach Committee  or delegate responsibility for selecting a chairperson to the Outreach Committee.  The Outreach Committee chairperson will be responsible for reporting progress  back to the Governing Board. The Outreach Committee chairperson may attend  meetings of the Governing Board, but, unless the Outreach Committee  chairperson is a member of the Governing Board, the Outreach Committee  chairperson will not attend as a voting member of the Governing Board.
 
-- d) Outreach committee chair will serve for a term of two years with a maximum of  two terms. Selection will be made through nomination & election and any active  member company may submit a candidate for consideration with a maximum of 1  candidate per member company. Election of the Outreach Committee Chair will  be made by a vote of the Governing Board Voting Members. 
+- f) Outreach committee chair will serve for a term of two years with a maximum of  two terms. Selection will be made through nomination & election and any active  member company may submit a candidate for consideration with a maximum of 1  candidate per member company. Election of the Outreach Committee Chair will  be made by a vote of the Governing Board Voting Members. 
 
 
 #### 5) Legal Committee 
