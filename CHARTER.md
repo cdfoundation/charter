@@ -1,274 +1,246 @@
-<p style="text-align: right">
-The Continuous Delivery Foundation Charter v2.0 </p>
+The Continuous Delivery Foundation Charter v2.0
+
+The Linux Foundation
+
+Effective 4 February 2019 / Amended 23 February 2023
 
 
-<p style="text-align: right">
-The Linux Foundation </p>
+#### 1) Mission and Scope of the Continuous Delivery Foundation (the "Foundation," or,  alternatively, the “Directed Fund”).
 
+- a) The purpose of the Foundation is to raise, budget and spend funds in support  of various continuous delivery open source and standards projects, including  infrastructure and support initiatives related thereto (each such project, a  "Technical Project"). The governance of each Technical Project is as set forth in  the applicable charter for each Technical Project. 
 
-<p style="text-align: right">
-Effective 4 February 2019 / Amended 23 February 2023 </p>
+- b) With respect to values and principles driving the Foundation, the Foundation: 
 
+  - i) believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly; 
 
-## 1) Mission and Scope of the Continuous Delivery Foundation (the "Foundation," or,  alternatively, the “Directed Fund”).
+  - ii) believes in the open source solutions collectively addressing the whole  software delivery lifecycle; 
 
+  - iii) fosters and sustains the ecosystem of open-source, vendor neutral  projects through collaborations and interoperability; and 
 
-a) The purpose of the Foundation is to raise, budget and spend funds in support  of various continuous delivery open source and standards projects, including  infrastructure and support initiatives related thereto (each such project, a  "Technical Project"). The governance of each Technical Project is as set forth in  the applicable charter for each Technical Project. 
+  - iv) advocates this idea and encourages collaborations among practitioners  to share and improve their practices. 
 
+- c) The Directed Fund supports the Technical Projects. The Directed Fund  operates under the guidance of the Governing Board of the Directed Fund (the "Governing Board") and The Linux Foundation (the “LF”) as may be consistent  with The Linux Foundation’s tax-exempt status. 
 
-b) With respect to values and principles driving the Foundation, the Foundation: ○ i) believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly; 
+- d) The Governing Board manages the Directed Fund. The Directed Fund will also  have an Outreach Committee, TOC (as defined herein), Budget Committee,  Legal Committee and other working groups, councils, committees and similar  bodies (collectively, "Committees", and excluding the TOC, the “Governing Board  Committees”) that may be established by the Governing Board. These  committees report to the Governing Board. 
 
-	ii) believes in the open source solutions collectively addressing the whole  software delivery lifecycle; 
+#### 2) Membership. 
 
-	iii) fosters and sustains the ecosystem of open-source, vendor neutral  projects through collaborations and interoperability; and 
+- a) The Directed Fund will be composed of Premier, General, Associate and End  User Members (each, a "Member" and, collectively, the “Members”) in Good  Standing. All Members must be current corporate members of the LF (at any  level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in  this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply  with all such policies as the LF Board of Directors and/or the Directed Fund may  adopt with notice to members. 
 
-	iv) advocates this idea and encourages collaborations among practitioners  to share and improve their practices. 
+- b) Premier Members will be entitled to appoint a representative to the Governing  Board and any Governing Board Committee. 
 
+- c) General Members, acting as a class, will be entitled to annually elect one  representative to the Governing Board for every ten General Members, up to a  maximum of three representatives, provided that there will always be at least one  General Member representative, even if there are less than ten General  Members. The Governing Board determines the election process. 
 
-c) The Directed Fund supports the Technical Projects. The Directed Fund  operates under the guidance of the Governing Board of the Directed Fund (the "Governing Board") and The Linux Foundation (the “LF”) as may be consistent  with The Linux Foundation’s tax-exempt status. 
+- d) The Associate Member category of membership is limited to Associate  Members of The Linux Foundation and requires approval by the Governing  Board, or, if the Governing Board sets additional criteria for joining the Directed  Fund as an Associate Member, the meeting of such criteria. If the Associate  Member is a membership organization, Associate Membership in the Directed  Fund does not confer any benefits or rights to the members of the Associate  Member. 
 
+- e) The End User category of membership is limited to companies that use  continuous delivery technologies internally, but do not sell any continuous  delivery services externally. 
 
-d) The Governing Board manages the Directed Fund. The Directed Fund will also  have an Outreach Committee, TOC (as defined herein), Budget Committee,  Legal Committee and other working groups, councils, committees and similar  bodies (collectively, "Committees", and excluding the TOC, the “Governing Board  Committees”) that may be established by the Governing Board. These  committees report to the Governing Board. 
+- f) Members will be entitled to: 
 
+  - i) participate in Directed Fund general meetings, initiatives, events and  any other activities; and 
 
-## 2) Membership. 
+  - ii) identify themselves as members of the Continuous Delivery Foundation  supporting the Continuous Delivery Foundation community. 
 
-a) The Directed Fund will be composed of Premier, General, Associate and End  User Members (each, a "Member" and, collectively, the “Members”) in Good  Standing. All Members must be current corporate members of the LF (at any  level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in  this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply  with all such policies as the LF Board of Directors and/or the Directed Fund may  adopt with notice to members. 
+#### 3) Governing Board
 
-b) Premier Members will be entitled to appoint a representative to the Governing  Board and any Governing Board Committee. 
+- a) The Governing Board voting members will consist of: 
 
+  - i) one representative appointed by each Premier Member; 
 
-c) General Members, acting as a class, will be entitled to annually elect one  representative to the Governing Board for every ten General Members, up to a  maximum of three representatives, provided that there will always be at least one  General Member representative, even if there are less than ten General  Members. The Governing Board determines the election process. 
+  - ii) the TOC Representative (as defined herein); 
 
+  - iii) any Committer Representatives (as defined herein); and 
 
-d) The Associate Member category of membership is limited to Associate  Members of The Linux Foundation and requires approval by the Governing  Board, or, if the Governing Board sets additional criteria for joining the Directed  Fund as an Associate Member, the meeting of such criteria. If the Associate  Member is a membership organization, Associate Membership in the Directed  Fund does not confer any benefits or rights to the members of the Associate  Member. 
+  - iv) the elected General Member representative or representatives. 
 
+- b) Each year the Governing Board will initiate an election by the Active  Contributors (as defined herein) of the Technical Projects of two representatives  (each, a "Committer Representative") from among the committers of the  Technical Projects to serve on the Governing Board. Each Committer Representative will be elected to serve a one-year term. The election procedures  will be determined by the Governing Board, and any nominee for Committer  Representative is subject to approval of the Governing Board.
 
-e) The End User category of membership is limited to companies that use  continuous delivery technologies internally, but do not sell any continuous  delivery services externally. 
+- c) Only one Member that is part of a group of Related Companies (as defined in  Section 9) may appoint, or nominate for a membership class election, a  representative on the Governing Board. No single Member, company or set of  Related Companies will be entitled to: (i) appoint or nominate for Membership  class election more than one representative for the Governing Board, or (ii) have  more than three representatives on the Governing Board. 
 
+- d) Conduct of Meetings 
 
-f) Members will be entitled to: 
+  - i) Governing Board meetings will be limited to the Governing Board  representatives, the Outreach Committee Chair, invited guests and LF  staff. 
 
+  - ii) Governing Board meetings follow the requirements for quorum and  voting outlined in this Charter. The Governing Board may decide whether  to allow one named representative to attend as an alternate. 
 
-	i) participate in Directed Fund general meetings, initiatives, events and  any other activities; and 
+  - iii) The Governing Board meetings will be private unless decided  otherwise by the Governing Board. The Governing Board may invite  guests to participate in consideration of specific Governing Board topics  (but such guest may not participate in any vote on any matter before the  Governing Board). 
 
-	ii) identify themselves as members of the Continuous Delivery Foundation  supporting the Continuous Delivery Foundation community. 
+- e) Officers 
 
+  - i) The officers ("Officers") of the Directed Fund as of the first meeting of  the Governing Board will be a Chairperson (“Chair”) and a Treasurer.  Additional Officer positions may be created by the Governing Board. 
 
-## 3) Governing Board
+  - ii) The Chair will preside over meetings of the Governing Board, manage  any day-to-day operational decisions, and will submit minutes for  Governing Board approval. 
 
-a) The Governing Board voting members will consist of: 
+  - iii) The Governing Board will elect a Chair, and the Chair will serve a term  of two years or until their resignation or replacement. No person may  serve as Chair for more than two successive terms. The Governing Board  will manage the election process and timing. The Chair may assign an  alternate or Deputy Chair to act as Chair in their absence.  
 
-	i) one representative appointed by each Premier Member; 
+  - iv) The Treasurer will assist in the preparation of budgets for Governing  Board approval, monitor expenses against the budget and authorize  expenditures approved in the budget. 
 
-	ii) the TOC Representative (as defined herein); 
+- f) The Governing Board will be responsible for overall management of the  Directed Fund, including: 
 
-	iii) any Committer Representatives (as defined herein); and 
+  - i) approve a budget directing the use of funds raised by the Directed Fund  from all sources of revenue; 
 
-	iv) the elected General Member representative or representatives. 
+  - ii) nominate and elect Officers of the Directed Fund; 
 
-b) Each year the Governing Board will initiate an election by the Active  Contributors (as defined herein) of the Technical Projects of two representatives  (each, a "Committer Representative") from among the committers of the  Technical Projects to serve on the Governing Board. Each Committer Representative will be elected to serve a one-year term. The election procedures  will be determined by the Governing Board, and any nominee for Committer  Representative is subject to approval of the Governing Board.
+  - iii) approving, in addition to TOC approval, of projects as Technical  Projects;
 
-c) Only one Member that is part of a group of Related Companies (as defined in  Section 9) may appoint, or nominate for a membership class election, a  representative on the Governing Board. No single Member, company or set of  Related Companies will be entitled to: (i) appoint or nominate for Membership  class election more than one representative for the Governing Board, or (ii) have  more than three representatives on the Governing Board. 
+  - iv) oversee all Directed Fund business and community outreach matters and work with the LF on any legal matters that arise; 
 
-d) Conduct of Meetings 
+  - v) adopt and maintain policies or rules and procedures for the Directed  Fund (subject to LF approval); 
 
-	i) Governing Board meetings will be limited to the Governing Board  representatives, the Outreach Committee Chair, invited guests and LF  staff. 
+  - vi) establish ad-hoc committees to resolve a particular matter or establish  additional committees, in support of the mission of the Directed Fund;
+  
+  - vii) establish any conformance programs and solicit input (including testing  tools) from the applicable governance body of any Technical Project for  defining and administering any programs related to conformance with any  Technical Project, (a "Compliance Program"); 
 
-	ii) Governing Board meetings follow the requirements for quorum and  voting outlined in this Charter. The Governing Board may decide whether  to allow one named representative to attend as an alternate. 
+  - viii) publish use cases, user stories, websites and priorities to help inform  the ecosystem and technical community; 
 
-	iii) The Governing Board meetings will be private unless decided  otherwise by the Governing Board. The Governing Board may invite  guests to participate in consideration of specific Governing Board topics  (but such guest may not participate in any vote on any matter before the  Governing Board). 
-
-e) Officers 
-
-	i) The officers ("Officers") of the Directed Fund as of the first meeting of  the Governing Board will be a Chairperson (“Chair”) and a Treasurer.  Additional Officer positions may be created by the Governing Board. 
-
-	ii) The Chair will preside over meetings of the Governing Board, manage  any day-to-day operational decisions, and will submit minutes for  Governing Board approval. 
-
-	iii) The Governing Board will elect a Chair, and the Chair will serve a term  of two years or until their resignation or replacement. No person may  serve as Chair for more than two successive terms. The Governing Board  will manage the election process and timing. The Chair may assign an  alternate or Deputy Chair to act as Chair in their absence.  
-
-	iv) The Treasurer will assist in the preparation of budgets for Governing  Board approval, monitor expenses against the budget and authorize  expenditures approved in the budget. 
-
-f) The Governing Board will be responsible for overall management of the  Directed Fund, including: 
-
-	i) approve a budget directing the use of funds raised by the Directed Fund  from all sources of revenue; 
-
-	ii) nominate and elect Officers of the Directed Fund; 
-
-	iii) approving, in addition to TOC approval, of projects as Technical  Projects;
-
-	iv) oversee all Directed Fund business and community outreach matters and work with the LF on any legal matters that arise; 
-
-	v) adopt and maintain policies or rules and procedures for the Directed  Fund (subject to LF approval); 
-
-	vi) establish ad-hoc committees to resolve a particular matter or establish  additional committees, in support of the mission of the Directed Fund; ○ vii) establish any conformance programs and solicit input (including testing  tools) from the applicable governance body of any Technical Project for  defining and administering any programs related to conformance with any  Technical Project, (a "Compliance Program"); 
-
-	viii) publish use cases, user stories, websites and priorities to help inform  the ecosystem and technical community; 
-
-	ix) establish and maintain end-user advisory councils to support one or  more Technical Projects; 
+  - ix) establish and maintain end-user advisory councils to support one or  more Technical Projects; 
 	
-	x) approve procedures for the nomination and election of are representative of the General Members to the Governing Board and any  Officer or other positions created by the Governing Board; and <p style="text-align: right">
+  - x) approve procedures for the nomination and election of are representative of the General Members to the Governing Board and any  Officer or other positions created by the Governing Board; and
 
-	xi) vote on all decisions or matters coming before the Governing Board. </p>
+  - xi) vote on all decisions or matters coming before the Governing Board.
 
+#### 4) Outreach Committee 
 
-## 4) Outreach Committee 
+- a) The Outreach Committee will include one appointed voting representative from  each Member.  
 
-a) The Outreach Committee will include one appointed voting representative from  each Member.  
+- b) Active projects in the CDF will appoint one representative to serve on the  Outreach Committee in a voting capacity. Elections will be at the discretion of the  individual projects with representatives serving for a term of one year with a  maximum of two terms. 
 
-b) Active projects in the CDF will appoint one representative to serve on the  Outreach Committee in a voting capacity. Elections will be at the discretion of the  individual projects with representatives serving for a term of one year with a  maximum of two terms. 
+- c) Either the TOC Chair or Deputy Chair and Ambassador Program chair will  serve as voting members of the outreach committee. 
 
-c) Either the TOC Chair or Deputy Chair and Ambassador Program chair will  serve as voting members of the outreach committee. 
+- d) The Outreach Committee will be responsible for the design, development and  execution of community outreach efforts on behalf of the Governing Board. The  Outreach Committee is expected to coordinate closely with the Governing Board  and technical communities to maximize the outreach and visibility of the  Technical Projects throughout the industry. 
 
-d) The Outreach Committee will be responsible for the design, development and  execution of community outreach efforts on behalf of the Governing Board. The  Outreach Committee is expected to coordinate closely with the Governing Board  and technical communities to maximize the outreach and visibility of the  Technical Projects throughout the industry. 
+- e) The Governing Board may appoint a chairperson of the Outreach Committee  or delegate responsibility for selecting a chairperson to the Outreach Committee.  The Outreach Committee chairperson will be responsible for reporting progress  back to the Governing Board. The Outreach Committee chairperson may attend  meetings of the Governing Board, but, unless the Outreach Committee  chairperson is a member of the Governing Board, the Outreach Committee  chairperson will not attend as a voting member of the Governing Board.
 
-e) The Governing Board may appoint a chairperson of the Outreach Committee  or delegate responsibility for selecting a chairperson to the Outreach Committee.  The Outreach Committee chairperson will be responsible for reporting progress  back to the Governing Board. The Outreach Committee chairperson may attend  meetings of the Governing Board, but, unless the Outreach Committee  chairperson is a member of the Governing Board, the Outreach Committee  chairperson will not attend as a voting member of the Governing Board.
-
-d) Outreach committee chair will serve for a term of two years with a maximum of  two terms. Selection will be made through nomination & election and any active  member company may submit a candidate for consideration with a maximum of 1  candidate per member company. Election of the Outreach Committee Chair will  be made by a vote of the Governing Board Voting Members. 
-
-
-## 5) Legal Committee 
-
-a) The Legal Committee will consist of members of the Governing Board that  wish to participate on the Legal Committee together with their legal counsel.  Participation on the Legal Committee is voluntary, and the makeup of the Legal  Committee will be determined annually or as otherwise directed by the Governing  Board. 
-
-b) The responsibilities of the Legal Committee include the creation of  recommendations to the Governing Board in response to questions submitted to  the Legal Committee by the Governing Board or the TOC. 
+- d) Outreach committee chair will serve for a term of two years with a maximum of  two terms. Selection will be made through nomination & election and any active  member company may submit a candidate for consideration with a maximum of 1  candidate per member company. Election of the Outreach Committee Chair will  be made by a vote of the Governing Board Voting Members. 
 
 
-c) The Legal Committee will select, from among those Governing Board  representatives that are participating on the Legal Committee, a chairperson of  the Legal Committee who will call meetings, drive the agenda and communicate  findings or recommendations of the Legal Committee to the Governing Board. 
+#### 5) Legal Committee 
 
+- a) The Legal Committee will consist of members of the Governing Board that  wish to participate on the Legal Committee together with their legal counsel.  Participation on the Legal Committee is voluntary, and the makeup of the Legal  Committee will be determined annually or as otherwise directed by the Governing  Board. 
 
-## 6) Budget Committee 
+- b) The responsibilities of the Legal Committee include the creation of  recommendations to the Governing Board in response to questions submitted to  the Legal Committee by the Governing Board or the TOC. 
 
-a) The Budget Committee will consist of representatives of the Governing Board  that volunteer to be a named participant on the Budget Committee. 
+- c) The Legal Committee will select, from among those Governing Board  representatives that are participating on the Legal Committee, a chairperson of  the Legal Committee who will call meetings, drive the agenda and communicate  findings or recommendations of the Legal Committee to the Governing Board. 
 
-b) The responsibilities of the Budget Committee include: 
+#### 6) Budget Committee 
 
-	i) assisting the Treasurer in preparation of annual budgets that adhere to  the principles and guidelines established by the Governing Board; 
+- a) The Budget Committee will consist of representatives of the Governing Board  that volunteer to be a named participant on the Budget Committee. 
 
-	ii) developing and reporting metrics for the allocation of budget in relation  to meeting the priorities of the Governing Board; 
+- b) The responsibilities of the Budget Committee include: 
 
-	iii) reviewing the progress of the Directed Fund against the annual budget; ○ iv) preparing forecasts for future financial needs of the Directed Fund; and
+  - i) assisting the Treasurer in preparation of annual budgets that adhere to  the principles and guidelines established by the Governing Board; 
+
+  - ii) developing and reporting metrics for the allocation of budget in relation  to meeting the priorities of the Governing Board; 
+
+  - iii) reviewing the progress of the Directed Fund against the annual budget; ○ iv) preparing forecasts for future financial needs of the Directed Fund; and
 	
-	v) such other matters related to finance and the financial operation of the  Directed Fund as may be directed to the Budget Committee by the Governing Board. 
+  - v) such other matters related to finance and the financial operation of the  Directed Fund as may be directed to the Budget Committee by the Governing Board. 
 
-c) The Treasurer shall be chairperson of the Budget Committee. The Chair of the  Budget Committee shall be elected to a two-year term with a maximum of two  terms allowed. 
+- c) The Treasurer shall be chairperson of the Budget Committee. The Chair of the  Budget Committee shall be elected to a two-year term with a maximum of two  terms allowed. 
 
-## 7) Technical Oversight Committee ("TOC")
+#### 7) Technical Oversight Committee ("TOC")
 
-a) The role of the TOC is to facilitate communication and collaboration among the  Technical Projects. The TOC will be responsible for: 
+- a) The role of the TOC is to facilitate communication and collaboration among the  Technical Projects. The TOC will be responsible for: 
 
-	i) coordinating collaboration among Technical Projects, including  development of an overall technical vision for the community; 
+  - i) coordinating collaboration among Technical Projects, including  development of an overall technical vision for the community; 
 
-	ii) making recommendations to the Budget Committee of resource  priorities for Technical Projects; 
+  - ii) making recommendations to the Budget Committee of resource  priorities for Technical Projects; 
 
-	iii) electing annually a chairperson to preside over meetings, set the  agenda for meetings, ensure meeting minutes are taken and who will also  serve on the Governing Board as the TOC’s representative (the "TOC Representative"); 
+  - iii) electing annually a chairperson to preside over meetings, set the  agenda for meetings, ensure meeting minutes are taken and who will also  serve on the Governing Board as the TOC’s representative (the "TOC Representative"); 
 
-	iv) creating, maintaining and amending project lifecycle procedures and  processes, subject to the approval of the Governing Board; and 
+  - iv) creating, maintaining and amending project lifecycle procedures and  processes, subject to the approval of the Governing Board; and 
 
-	v) such other matters related to the technical role of the TOC as may be  communicated to the TOC by the Governing Board. 
+  - v) such other matters related to the technical role of the TOC as may be  communicated to the TOC by the Governing Board. 
 
+- b) The voting members of the TOC consist of nine members as follows: 
 
-b) The voting members of the TOC consist of nine members as follows: 
-	i) four representatives nominated by, and voted upon, by the technical  oversight body (e.g., a technical steering committee) of the TOC Projects  (as defined herein). Each TOC Project may nominate a maximum of one  project representative to run for these seats. 
+  - i) four representatives nominated by, and voted upon, by the technical  oversight body (e.g., a technical steering committee) of the TOC Projects  (as defined herein). Each TOC Project may nominate a maximum of one  project representative to run for these seats. 
 
-	ii) two representatives elected by the End User Members voting as a  class; and 
+  - ii) two representatives elected by the End User Members voting as a  class; and 
 
-	iii) three representatives elected by the Governing Board (with nominees  not having to be members of the Governing Board). The Governing Board  may delegate responsibility for electing one or more representatives (e.g.,  to the CDF Community Ambassadors) 
+  - iii) three representatives elected by the Governing Board (with nominees  not having to be members of the Governing Board). The Governing Board  may delegate responsibility for electing one or more representatives (e.g.,  to the CDF Community Ambassadors) 
 
-c) Voting members of the TOC will be elected or appointed, as applicable, to  such positions for two-year terms, provided, however, that the TOC may employ  a number of one-year terms in order to stagger appointments and elections to the  TOC. The TOC may choose to implement term limits for individuals serving as  members on the TOC. 
+- c) Voting members of the TOC will be elected or appointed, as applicable, to  such positions for two-year terms, provided, however, that the TOC may employ  a number of one-year terms in order to stagger appointments and elections to the  TOC. The TOC may choose to implement term limits for individuals serving as  members on the TOC. 
 
-d) Meetings of the TOC are intended to be open for observation generally. The  TOC may make changes to this policy as deemed necessary by the TOC. 
+- d) Meetings of the TOC are intended to be open for observation generally. The  TOC may make changes to this policy as deemed necessary by the TOC. 
 
-e) At the start of the Directed Fund, "TOC Projects" are those Technical Projects  listed as having voting representatives on the TOC on the Directed Fund’s web  site. Thereafter, any Technical Project can become a TOC Project through the  approval of the Technical Project’s technical oversight body, the TOC (by a two third’s vote), and the Governing Board. The TOC and the Governing Board may  approve a project lifecycle policy that will address the incubation, archival and  other stages of TOC Projects.
+- e) At the start of the Directed Fund, "TOC Projects" are those Technical Projects  listed as having voting representatives on the TOC on the Directed Fund’s web  site. Thereafter, any Technical Project can become a TOC Project through the  approval of the Technical Project’s technical oversight body, the TOC (by a two third’s vote), and the Governing Board. The TOC and the Governing Board may  approve a project lifecycle policy that will address the incubation, archival and  other stages of TOC Projects.
 
-f) The TOC representatives will elect a chair and deputy chair. The TOC  representatives will elect a chair to preside over meetings, ensure minutes are  taken and drive the TOC agenda with input from the TOC representatives, who  will also serve as the TOC Representative. The role of the deputy chair is to  collaborate with and support the chair in all roles, including presiding over  meetings, ensuring minutes are taken, and driving the TOC agenda at the  request of the TOC chair. The TOC Chair and Deputy Chair will have a 2 year  term, and the TOC may choose to implement term limits for individuals serving  as chairs and deputy chairs to the TOC. 
+- f) The TOC representatives will elect a chair and deputy chair. The TOC  representatives will elect a chair to preside over meetings, ensure minutes are  taken and drive the TOC agenda with input from the TOC representatives, who  will also serve as the TOC Representative. The role of the deputy chair is to  collaborate with and support the chair in all roles, including presiding over  meetings, ensuring minutes are taken, and driving the TOC agenda at the  request of the TOC chair. The TOC Chair and Deputy Chair will have a 2 year  term, and the TOC may choose to implement term limits for individuals serving  as chairs and deputy chairs to the TOC. 
 
+#### 8)The Ambassador Program
 
-## 8)The Ambassador Program
+- a) The Ambassador program is an initiative to enable Continuous Delivery Leadership  and grow the CDF through engagement, outreach, and adoption of open source CD  software practices, projects, and tools. The Governing Board may maintain a charter for  operation of the Ambassador program. The Program is led by the Ambassador Chair  which is elected for a term of two years with a maximum of two terms. Selection will be  made through nomination and election of active Ambassador program participants. 
 
-a) The Ambassador program is an initiative to enable Continuous Delivery Leadership  and grow the CDF through engagement, outreach, and adoption of open source CD  software practices, projects, and tools. The Governing Board may maintain a charter for  operation of the Ambassador program. The Program is led by the Ambassador Chair  which is elected for a term of two years with a maximum of two terms. Selection will be  made through nomination and election of active Ambassador program participants. 
+- b) The Ambassador Chair is a voting member of the Outreach Committee and a  contributor to the TOC. The Ambassador Chair has the right to delegate the role of  representing in TOC and Outreach to other Ambassador Program members as needed. 
 
-b) The Ambassador Chair is a voting member of the Outreach Committee and a  contributor to the TOC. The Ambassador Chair has the right to delegate the role of  representing in TOC and Outreach to other Ambassador Program members as needed. 
+#### 9) Voting
 
+- a) Quorum for Governing Board and Committee meetings will require at least fifty  percent of the voting representatives. If advance notice of the meeting has been  given per normal means and timing, the Governing Board may continue to meet  even if quorum is not met, but will be prevented from making any decisions at the  meeting.
 
-## 9) Voting
+- b) Ideally decisions will be made based on consensus. If, however, any decision  requires a vote to move forward, the representatives of the Governing Board or  Committee, as applicable, will vote on a one vote per voting representative basis.
 
-a) Quorum for Governing Board and Committee meetings will require at least fifty  percent of the voting representatives. If advance notice of the meeting has been  given per normal means and timing, the Governing Board may continue to meet  even if quorum is not met, but will be prevented from making any decisions at the  meeting. <p style="text-align: right">
+- c) Except as provided in Section 16.a., decisions by vote at a meeting will require  a simple majority vote, provided quorum is met. Except as provided in Section  16.a., decisions by electronic vote without a meeting will require a majority of all  voting representatives. 
 
-b) Ideally decisions will be made based on consensus. If, however, any decision  requires a vote to move forward, the representatives of the Governing Board or  Committee, as applicable, will vote on a one vote per voting representative basis. </p>
+- d) In the event of a tied vote with respect to an action that cannot be resolved by  the Governing Board, the Chair may refer the matter to the LF for assistance in  reaching a decision. If there is a tied vote in any Committee that cannot be  resolved, the matter may be referred to the Governing Board. 
 
-c) Except as provided in Section 16.a., decisions by vote at a meeting will require  a simple majority vote, provided quorum is met. Except as provided in Section  16.a., decisions by electronic vote without a meeting will require a majority of all  voting representatives. 
+#### 10) Subsidiaries and Related Companies
 
-d) In the event of a tied vote with respect to an action that cannot be resolved by  the Governing Board, the Chair may refer the matter to the LF for assistance in  reaching a decision. If there is a tied vote in any Committee that cannot be  resolved, the matter may be referred to the Governing Board. 
+- a) Definitions: 
 
+  - i) "Subsidiaries" means any entity in which a Member owns, directly or  indirectly, more than fifty percent of the voting securities or membership  interests of the entity in question; 
 
-## 10) Subsidiaries and Related Companies
+  - ii) "Related Company" means any entity which controls or is controlled by  a Member or which, together with a Member, is under the common control  of a third party, in each case where such control results from ownership,  either directly or indirectly, of more than fifty percent of the voting securities or membership interests of the entity in question; and
 
-a) Definitions: 
+  - iii) "Related Companies" are entities that are each a Related Company of  a Member. 
 
-	i) "Subsidiaries" means any entity in which a Member owns, directly or  indirectly, more than fifty percent of the voting securities or membership  interests of the entity in question; 
+- b) Only the legal entity which has executed a Participation Agreement and its  Subsidiaries will be entitled to enjoy the rights and privileges of such  Membership; provided, however, that such Member and its Subsidiaries will be  treated together as a single Member. 
 
-	ii) "Related Company" means any entity which controls or is controlled by  a Member or which, together with a Member, is under the common control  of a third party, in each case where such control results from ownership,  either directly or indirectly, of more than fifty percent of the voting securities or membership interests of the entity in question; and </p>
+- c) If a Member is itself a foundation, association, consortium, open source  project, membership organization, user group or other entity that has members or  sponsors, then the rights and privileges granted to such Member will extend only  to the employee- representatives of such Member, and not to its members or  sponsors, unless otherwise approved by the Governing Board in a specific case. 
 
-	iii) "Related Companies" are entities that are each a Related Company of  a Member. 
+- d) Directed Fund Membership is non-transferable, non-salable and non assignable, except a Member may transfer its current Membership benefits and  obligations to a successor of substantially all of its business or assets, whether  by merger, sale or otherwise; provided that the transferee agrees to be bound by  this Charter and the Bylaws and policies required by LF membership. 
 
-b) Only the legal entity which has executed a Participation Agreement and its  Subsidiaries will be entitled to enjoy the rights and privileges of such  Membership; provided, however, that such Member and its Subsidiaries will be  treated together as a single Member. 
+#### 11) Good Standing 
 
-c) If a Member is itself a foundation, association, consortium, open source  project, membership organization, user group or other entity that has members or  sponsors, then the rights and privileges granted to such Member will extend only  to the employee- representatives of such Member, and not to its members or  sponsors, unless otherwise approved by the Governing Board in a specific case. 
-
-d) Directed Fund Membership is non-transferable, non-salable and non assignable, except a Member may transfer its current Membership benefits and  obligations to a successor of substantially all of its business or assets, whether  by merger, sale or otherwise; provided that the transferee agrees to be bound by  this Charter and the Bylaws and policies required by LF membership. 
-
-
-## 11) Good Standing 
-
-a) The Linux Foundation’s Good Standing Policy is available at https://www.linuxfoundation.org/good-standing-policy and will apply to Members  of this Directed Fund. 
+- a) The Linux Foundation’s Good Standing Policy is available at https://www.linuxfoundation.org/good-standing-policy and will apply to Members  of this Directed Fund. 
 
 
-## 12) Trademarks 
+#### 12) Trademarks 
 
-a) Any trademarks relating to the Directed Fund or any Technical Project,  including without limitation any mark relating to any Conformance Program, must  be transferred to and held by LF Projects, LLC and available for use pursuant to  LF Projects, LLC’s trademark usage policy, available at www.lfprojects.org/trademarks/ or a sub-licensing program approved by the  Directed Fund and The Linux Foundation.
+- a) Any trademarks relating to the Directed Fund or any Technical Project,  including without limitation any mark relating to any Conformance Program, must  be transferred to and held by LF Projects, LLC and available for use pursuant to  LF Projects, LLC’s trademark usage policy, available at www.lfprojects.org/trademarks/ or a sub-licensing program approved by the  Directed Fund and The Linux Foundation.
 
-## 13) Antitrust Guidelines 
+#### 13) Antitrust Guidelines 
 
-a) All Members must abide by The Linux Foundation’s Antitrust Policy available  at http://www.linuxfoundation.org/antitrust-policy. 
+- a) All Members must abide by The Linux Foundation’s Antitrust Policy available  at http://www.linuxfoundation.org/antitrust-policy. 
 
-b) All Members must encourage open participation from any organization able to  meet the membership requirements, regardless of competitive interests. Put  another way, the Governing Board will not seek to exclude any member based  on any criteria, requirements or reasons other than those that are reasonable  and applied on a non- discriminatory basis to all members. 
+- b) All Members must encourage open participation from any organization able to  meet the membership requirements, regardless of competitive interests. Put  another way, the Governing Board will not seek to exclude any member based  on any criteria, requirements or reasons other than those that are reasonable  and applied on a non- discriminatory basis to all members. 
 
+#### 14) Budget 
 
-## 14) Budget 
+- a) The Governing Board will approve an annual budget and never commit to  spend in excess of funds raised. The budget and the purposes to which it is  applied must be consistent with both (a) the non-profit and tax-exempt mission of  The Linux Foundation and (b) the aggregate goals of the Technical Projects. 
 
-a) The Governing Board will approve an annual budget and never commit to  spend in excess of funds raised. The budget and the purposes to which it is  applied must be consistent with both (a) the non-profit and tax-exempt mission of  The Linux Foundation and (b) the aggregate goals of the Technical Projects. 
+- b) The Linux Foundation will provide the Governing Board with regular reports of  spend levels against the budget. Under no circumstances will The Linux  Foundation have any expectation or obligation to undertake an action on behalf  of the Directed Fund or otherwise related to the Directed Fund that is not covered  in full by funds raised by the Directed Fund. 
 
-b) The Linux Foundation will provide the Governing Board with regular reports of  spend levels against the budget. Under no circumstances will The Linux  Foundation have any expectation or obligation to undertake an action on behalf  of the Directed Fund or otherwise related to the Directed Fund that is not covered  in full by funds raised by the Directed Fund. 
+- c) In the event an unbudgeted or otherwise unfunded obligation arises related to  the Directed Fund, The Linux Foundation will coordinate with the Governing  Board to address gap funding requirements. 
 
-c) In the event an unbudgeted or otherwise unfunded obligation arises related to  the Directed Fund, The Linux Foundation will coordinate with the Governing  Board to address gap funding requirements. 
+#### 15) General & Administrative Expenses 
 
+- a) The Linux Foundation will have custody of and final authority over the usage of  any fees, funds and other cash receipts. 
 
-## 15) General & Administrative Expenses 
+- b) A General & Administrative (G&A) fee will be applied by the Linux Foundation  to funds raised to cover Finance, Accounting, and operations. The G&A fee will  be 9% of the Directed Fund’s first $1,000,000 of gross receipts each year and  6% of the Directed Fund’s gross receipts each year over $1,000,000. 
 
-a) The Linux Foundation will have custody of and final authority over the usage of  any fees, funds and other cash receipts. 
-
-b) A General & Administrative (G&A) fee will be applied by the Linux Foundation  to funds raised to cover Finance, Accounting, and operations. The G&A fee will  be 9% of the Directed Fund’s first $1,000,000 of gross receipts each year and  6% of the Directed Fund’s gross receipts each year over $1,000,000. 
-
-
-## 16) General Rules and Operations. 
-
+#### 16) General Rules and Operations. 
 
 The Directed Fund activities must: 
 
+- a) engage in the work of the project in a professional manner consistent with  maintaining a cohesive community, while also maintaining the goodwill and  esteem of The Linux Foundation in the open source community;
 
-a) engage in the work of the project in a professional manner consistent with  maintaining a cohesive community, while also maintaining the goodwill and  esteem of The Linux Foundation in the open source community;
+- b) respect the rights of all trademark owners, including any branding and usage  guidelines; 
 
+- c) engage or coordinate with The Linux Foundation on all outreach, website and  marketing activities regarding the Directed Fund or on behalf of any Technical  Project that invoke or associate the name of any Technical Project or The Linux  Foundation; and 
 
-b) respect the rights of all trademark owners, including any branding and usage  guidelines; 
+- d) operate under such rules and procedures as may be approved by the  Governing Board and confirmed by The Linux Foundation. 
 
-c) engage or coordinate with The Linux Foundation on all outreach, website and  marketing activities regarding the Directed Fund or on behalf of any Technical  Project that invoke or associate the name of any Technical Project or The Linux  Foundation; and 
+#### 17) Amendments 
 
-
-d) operate under such rules and procedures as may be approved by the  Governing Board and confirmed by The Linux Foundation. 
-
-
-## 17) Amendments 
-
-
-a) This Charter may be amended by a two-thirds vote of the entire Governing  Board, subject to approval by The Linux Foundation.
+- a) This Charter may be amended by a two-thirds vote of the entire Governing  Board, subject to approval by The Linux Foundation.
